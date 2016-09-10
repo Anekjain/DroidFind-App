@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/anu/StudioProjects/MobileTheft/app/build/intermediates/res/merged/debug/drawable/uncheck.png",
+        "source": "/home/anu/StudioProjects/MobileTheft/app/src/main/res/drawable/uncheck.png"
+    },
+    {
+        "merged": "/home/anu/StudioProjects/MobileTheft/app/build/intermediates/res/merged/debug/drawable/check.png",
+        "source": "/home/anu/StudioProjects/MobileTheft/app/src/main/res/drawable/check.png"
+    },
+    {
+        "merged": "/home/anu/StudioProjects/MobileTheft/app/build/intermediates/res/merged/debug/drawable/forward.png",
+        "source": "/home/anu/StudioProjects/MobileTheft/app/src/main/res/drawable/forward.png"
+    }
+]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/anu/StudioProjects/MobileTheft/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0fb52a1a9be33c6da2d8071ba84095210c234645">
+        <dex dex="/home/anu/StudioProjects/MobileTheft/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_64d245260dfae0ae8f47f9969f98790267c786d8/classes.dex" />
+    </item>
+    <item
+        jar="/home/anu/StudioProjects/MobileTheft/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9971c4e3cfe6e20c8662f0378cf411d652c16d8a">
+        <dex dex="/home/anu/StudioProjects/MobileTheft/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_441991d399b5748ea0f1f4fd4122d3e16c41b60e/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,79 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:4:1-30:12
+	package
+		ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:5:2-35
+		INJECTED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:6:2-29
+		INJECTED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:5:36-60
+		INJECTED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:4:11-69
+application
+ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:7:2-17:16
+	android:label
+		ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:7:45-77
+	android:icon
+		ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:7:15-44
+activity#in.net.naseer.droidfind.DroidFindMain
+ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:8:3-13:14
+	android:label
+		ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:8:43-75
+	android:name
+		ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:8:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:9:4-12:20
+action#android.intent.action.MAIN
+ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:10:5-57
+	android:name
+		ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:10:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:11:15-62
+uses-feature#android.hardware.telephony.gsm
+ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:19:2-20:29
+	android:required
+		ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:20:3-26
+	android:name
+		ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:19:16-61
+uses-feature#android.hardware.location
+ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:21:2-22:29
+	android:required
+		ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:22:3-26
+	android:name
+		ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:21:16-56
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:23:2-72
+	android:name
+		ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:23:19-69
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:24:2-64
+	android:name
+		ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:24:19-61
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:25:2-78
+	android:name
+		ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:25:19-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:26:2-76
+	android:name
+		ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:26:19-73
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:27:2-78
+	android:name
+		ADDED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml:27:19-75
+uses-sdk
+INJECTED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anu/StudioProjects/MobileTheft/app/src/main/AndroidManifest.xml

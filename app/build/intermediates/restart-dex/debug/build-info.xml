@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64"
+    api-level="22"
+    density="420dpi"
+    format="7"
+    timestamp="5764640041088"
+    token="5994207567449978465" >
+
+    <task
+        name="javac"
+        duration="6472" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="534" />
+    <task
+        name="verifier"
+        duration="7" />
+
+    <artifact
+        location="/home/anu/StudioProjects/MobileTheft/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="5764640041088" >
+        <artifact
+            location="/home/anu/StudioProjects/MobileTheft/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
